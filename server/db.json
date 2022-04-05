@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "email": "email1@gmail.com",
+      "name": "name1"
+    },
+    {
+      "id": 2,
+      "email": "email2@gmail.com",
+      "name": "name2"
+    },
+    {
+      "name": "Maximum New",
+      "email": "max@yahoo.com",
+      "id": "3"
+    }
+  ]
+}
